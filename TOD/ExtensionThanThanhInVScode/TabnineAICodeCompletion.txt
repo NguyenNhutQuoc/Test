@@ -1,0 +1,1 @@
+Nó sẽ dự đoán từ tiếp theo của bạn là từ gì và sẽ gợi ý cho bạn, giúp quá trình code của bạn sẽ nhanh hơn nhiều
