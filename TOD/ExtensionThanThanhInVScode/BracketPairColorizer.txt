@@ -1,0 +1,2 @@
+Các ngoặc nhón sẽ có màu khác nhau, ví dụ, ngoặc nhọn bên trong sẽ khác màu với ngoặc nhọn bên ngoài
+Tóm lại, nó giúp chúng ta phân cấp dễ dàng hơn và giúp ta dễ đọc code. Nó có cả ngoặc tròn nữa!!!

@@ -1,0 +1,4 @@
+dùng để quan sát code mình đang thực hiện cái gì mà ko cần phải reload trang trên trình duyệt, 
+chỉ cần nhấn tổ hợp phím để save là tự động trang web sẽ hiện lên cái mình vừa thay đổi trong 
+source code, sẽ tối ưu hơn nếu bạn chia đôi màn hình desktop của bạn, tức là một bên vscode, một
+bên trình duyệt
