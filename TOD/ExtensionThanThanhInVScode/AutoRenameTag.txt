@@ -1,0 +1,2 @@
+Nếu muốn thay đổi tên thẻ, thường thì ta sẽ thay tên thẻ đóng và thẻ mở, nhưng với extension này
+thì chỉ cần thay đổi một trong hai thì cái còn lại sẽ tự thay đổi.
