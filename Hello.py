@@ -1,2 +1,3 @@
+
 print('Sad')
 print("Sadness")
